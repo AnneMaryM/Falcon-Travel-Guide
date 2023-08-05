@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="1150" height="1050" version="1.1" viewBox="0 0 1150 1050" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs>
+  <marker id="marker10481" overflow="visible" orient="auto">
+   <path transform="matrix(-.2 0 0 -.2 -1.2 0)" d="m0 0 5-5-17.5 5 17.5 5-5-5z" fill="#80276c" fill-rule="evenodd" stroke="#80276c" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker10189" overflow="visible" orient="auto">
+   <path transform="matrix(-.2 0 0 -.2 -1.2 0)" d="m0 0 5-5-17.5 5 17.5 5-5-5z" fill="#003da5" fill-rule="evenodd" stroke="#003da5" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker10101" overflow="visible" orient="auto">
+   <path transform="matrix(.2 0 0 .2 1.2 0)" d="m0 0 5-5-17.5 5 17.5 5-5-5z" fill="#003da5" fill-rule="evenodd" stroke="#003da5" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker9159" overflow="visible" orient="auto">
+   <path transform="matrix(-.2 0 0 -.2 -1.2 0)" d="m0 0 5-5-17.5 5 17.5 5-5-5z" fill="#ed8b00" fill-rule="evenodd" stroke="#ed8b00" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker8805" overflow="visible" orient="auto">
+   <path transform="matrix(-.2 0 0 -.2 -1.2 0)" d="m0 0 5-5-17.5 5 17.5 5-5-5z" fill="#ed8b00" fill-rule="evenodd" stroke="#ed8b00" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker6634" overflow="visible" orient="auto">
+   <path transform="matrix(-.2 0 0 -.2 -1.2 0)" d="m0 0 5-5-17.5 5 17.5 5-5-5z" fill="#7c878e" fill-rule="evenodd" stroke="#7c878e" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker6330" overflow="visible" orient="auto">
+   <path transform="matrix(-.2 0 0 -.2 -1.2 0)" d="m0 0 5-5-17.5 5 17.5 5-5-5z" fill="#003da5" fill-rule="evenodd" stroke="#003da5" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker6296" overflow="visible" orient="auto">
+   <path transform="matrix(.2 0 0 .2 1.2 0)" d="m0 0 5-5-17.5 5 17.5 5-5-5z" fill="#003da5" fill-rule="evenodd" stroke="#003da5" stroke-width="1pt"/>
+  </marker>
+  <marker id="Arrow1Send" overflow="visible" orient="auto">
+   <path transform="matrix(-.2 0 0 -.2 -1.2 0)" d="m0 0 5-5-17.5 5 17.5 5-5-5z" fill="#da291c" fill-rule="evenodd" stroke="#da291c" stroke-width="1pt"/>
+  </marker>
+  <marker id="Arrow1Sstart" overflow="visible" orient="auto">
+   <path transform="matrix(.2 0 0 .2 1.2 0)" d="m0 0 5-5-17.5 5 17.5 5-5-5z" fill="#da291c" fill-rule="evenodd" stroke="#da291c" stroke-width="1pt"/>
+  </marker>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g fill="none">
+  <path d="m1086.6 377.31-10.047-5.8013s-5.7008-3.2913-12.059-4.995c-6.3583-1.7037-12.941-1.7037-12.941-1.7037l-48.207-1e-5s-6.5826 0-12.941-1.7037c-6.3583-1.7037-12.059-4.995-12.059-4.995l-80.023-46.202" stroke="#088" stroke-width="22"/>
+  <path d="m504.25 597.16-79.89-4.7e-4s-13.397 0-25-6.6987-18.301-18.301-18.301-18.301l-172.01-297.92" stroke="#ada" stroke-width="8"/>
+  <path d="m396.6 945.09s14.501 1e-5 26.103-6.6987 18.301-18.301 18.301-18.301l79.888-138.37s6.6988-11.603 18.301-18.301c11.602-6.6987 25-6.6987 25-6.6987" stroke="#000" stroke-dasharray="2, 2" stroke-width="2"/>
+  <g stroke="#00843d">
+   <path d="m924.95 327.31-53.347-30.801s-5.7026-3.2918-10.357-7.9464c-4.6546-4.6546-7.9459-10.355-7.9459-10.355l-143.3-248.2" stroke-width="8"/>
+   <path d="m785 289.81h61.604s6.5827 0 12.941 1.7037 12.059 4.995 12.059 4.995l53.348 30.801" stroke-width="8"/>
+   <path d="m988.49 597.16h-92.266s-13.397 0-25 6.6987-18.301 18.301-18.301 18.301l-62.14 107.65" stroke-width="15"/>
+   <g stroke-width="8">
+    <path d="m807.42 597.16h-121.13s-13.397 0-25 6.6987-18.301 18.301-18.301 18.301l-186.45 322.93"/>
+    <path d="m657.42 597.16-31.074-1.4e-4s-13.397 0-25 6.6987-18.301 18.301-18.301 18.301l-186.45 322.93"/>
+    <path d="m761.28 597.16-660.98-3e-5"/>
+    <path d="M 806.31,702.9 650.95,972"/>
+   </g>
+  </g>
+  <path d="m650.95 972-31.08 53.82" stroke="#ada" stroke-width="8"/>
+  <path d="m1086.6 377.31-10.047-5.8013s-5.7008-3.2913-12.059-4.995c-6.3583-1.7037-12.941-1.7037-12.941-1.7037l-48.207-1e-5s-6.5826 0-12.941-1.7037c-6.3583-1.7037-12.059-4.995-12.059-4.995l-80.023-46.202" stroke="#fff" stroke-width="18"/>
+  <path d="m861.25 288.56c-4.6546-4.6546-7.9459-10.355-7.9459-10.355l-143.3-248.2" stroke="#aaa" stroke-dasharray="5, 5" stroke-width="5"/>
+  <path d="m717.36 597.16h271.13s13.397 0 25-6.6987c11.602-6.6987 18.301-18.301 18.301-18.301l73.066-126.55s10.355-17.936 4.995-37.941c-5.3603-20.005-23.296-30.36-23.296-30.36l-10.047-5.8013s-5.7008-3.2913-12.059-4.995c-6.3583-1.7037-12.941-1.7037-12.941-1.7037l-48.207-1e-5s-6.5826 0-12.941-1.7037c-6.3583-1.7037-12.059-4.995-12.059-4.995l-80.12-46.203" stroke="#00843d" stroke-width="15"/>
+  <g stroke-width="5">
+   <path d="m1040.1 507.7 43.301 25" marker-end="url(#Arrow1Send)" marker-start="url(#Arrow1Sstart)" stroke="#da291c"/>
+   <path d="m1071.8 452.88 43.301 25" marker-end="url(#marker6330)" marker-start="url(#marker6296)" stroke="#003da5"/>
+   <path d="m1031.8 572.16 21.651 12.5" marker-end="url(#marker6634)" stroke="#7c878e"/>
+   <path d="m1064.4 366.51 12.5-21.651" marker-end="url(#marker9159)" stroke="#ed8b00"/>
+   <path d="m1064.4 366.51-12.5-21.651" marker-end="url(#marker10481)" stroke="#80276c"/>
+   <path d="m1109.9 407.67 25 1e-5" marker-end="url(#marker8805)" stroke="#ed8b00"/>
+  </g>
+ </g>
+ <g fill-rule="evenodd" stroke-linejoin="round">
+  <g fill="#ddd" stroke="#888">
+   <circle cx="209.05" cy="274.24" r="10" stroke-width="5"/>
+   <g stroke-width="3">
+    <circle cx="348.88" cy="516.43" r="6"/>
+    <circle cx="302.27" cy="435.7" r="6"/>
+    <circle cx="255.66" cy="354.97" r="6"/>
+   </g>
+  </g>
+  <g fill="#fff" stroke="#00843d">
+   <g stroke-width="3">
+    <circle cx="377.75" cy="597.16" r="6"/>
+    <circle cx="566.4" cy="597.16" r="6"/>
+    <circle cx="411.03" cy="597.16" r="6"/>
+    <circle cx="442.11" cy="597.16" r="6"/>
+    <circle cx="473.18" cy="597.16" r="6"/>
+    <circle cx="504.25" cy="597.16" r="6"/>
+    <circle cx="535.33" cy="597.16" r="6"/>
+    <circle cx="348.89" cy="597.16" r="6"/>
+    <circle cx="255.66" cy="597.16" r="6"/>
+    <circle cx="286.74" cy="597.16" r="6"/>
+    <circle cx="317.81" cy="597.16" r="6"/>
+    <circle cx="224.59" cy="597.16" r="6"/>
+    <circle cx="131.37" cy="597.16" r="6"/>
+    <circle cx="162.44" cy="597.16" r="6"/>
+    <circle cx="193.52" cy="597.16" r="6"/>
+    <circle cx="100.3" cy="597.16" r="6"/>
+    <circle cx="627.44" cy="649.07" r="6"/>
+    <circle cx="611.91" cy="675.98" r="6"/>
+    <circle cx="596.37" cy="702.89" r="6"/>
+    <circle cx="580.83" cy="729.81" r="6"/>
+    <circle cx="565.3" cy="756.72" r="6"/>
+    <circle cx="549.76" cy="783.63" r="6"/>
+    <circle cx="534.22" cy="810.54" r="6"/>
+    <circle cx="518.69" cy="837.45" r="6"/>
+    <circle cx="503.15" cy="864.36" r="6"/>
+    <circle cx="487.61" cy="891.27" r="6"/>
+    <circle cx="472.08" cy="918.18" r="6"/>
+    <circle cx="567.5" cy="649.07" r="6"/>
+    <circle cx="551.97" cy="675.98" r="6"/>
+    <circle cx="536.43" cy="702.89" r="6"/>
+    <circle cx="520.89" cy="729.81" r="6"/>
+    <circle cx="505.36" cy="756.72" r="6"/>
+    <circle cx="489.82" cy="783.63" r="6"/>
+    <circle cx="474.28" cy="810.54" r="6"/>
+    <circle cx="458.75" cy="837.45" r="6"/>
+    <circle cx="443.21" cy="864.36" r="6"/>
+    <circle cx="427.67" cy="891.27" r="6"/>
+    <circle cx="412.14" cy="918.18" r="6"/>
+   </g>
+   <circle cx="806.31" cy="702.9" r="10" stroke-width="5"/>
+   <g stroke-width="3">
+    <circle cx="775.24" cy="756.72" r="6"/>
+    <circle cx="759.7" cy="783.63" r="6"/>
+    <circle cx="744.17" cy="810.54" r="6"/>
+    <circle cx="728.63" cy="837.45" r="6"/>
+    <circle cx="713.09" cy="864.36" r="6"/>
+    <circle cx="697.56" cy="891.27" r="6"/>
+    <circle cx="682.02" cy="918.18" r="6"/>
+    <circle cx="666.48" cy="945.09" r="6"/>
+   </g>
+  </g>
+  <circle cx="619.87" cy="1025.8" r="6" fill="#ddd" stroke="#888" stroke-width="3"/>
+  <g stroke="#fff" stroke-width="9">
+   <circle cx="1031.8" cy="572.16" r="10" fill="#aaa"/>
+   <circle cx="1109.9" cy="407.67" r="10" fill="#f80"/>
+   <circle cx="1064.4" cy="366.51" r="10" fill="#f80"/>
+   <circle cx="1061.8" cy="520.2" r="10" fill="#f00"/>
+   <circle cx="1093.4" cy="465.38" r="10" fill="#00f"/>
+  </g>
+  <g stroke="#00843d" stroke-width="5">
+   <circle cx="896.22" cy="597.16" r="10" fill="#fff"/>
+   <circle cx="1031.8" cy="572.16" r="10" fill="#7c878e"/>
+   <circle cx="966.22" cy="597.16" r="10" fill="#fff"/>
+   <circle cx="1109.9" cy="407.67" r="10" fill="#ed8b00"/>
+   <circle cx="1064.4" cy="366.51" r="10" fill="#ed8b00"/>
+   <circle cx="1061.8" cy="520.2" r="10" fill="#da291c"/>
+   <circle cx="1093.4" cy="465.38" r="10" fill="#003da5"/>
+  </g>
+  <g fill="#fff">
+   <circle cx="785" cy="289.81" r="6" stroke="#00843d" stroke-width="3"/>
+   <g stroke="#8a8" stroke-dasharray="3, 3" stroke-width="3">
+    <circle cx="822.5" cy="224.86" r="6"/>
+    <circle cx="794.38" cy="176.14" r="6"/>
+    <circle cx="766.25" cy="127.43" r="6"/>
+    <circle cx="738.12" cy="78.714" r="6"/>
+    <circle cx="710" cy="30" r="6"/>
+   </g>
+   <g stroke="#00843d">
+    <g stroke-width="5">
+     <circle cx="990.36" cy="363.1" r="10"/>
+     <circle cx="924.95" cy="327.31" r="10"/>
+     <circle cx="746.22" cy="597.16" r="10"/>
+     <circle cx="821.22" cy="597.16" r="10"/>
+    </g>
+    <circle cx="580.83" cy="622.16" r="6" stroke-width="3"/>
+    <circle cx="837.39" cy="649.07" r="10" stroke-width="5"/>
+    <circle cx="642.98" cy="622.16" r="6" stroke-width="3"/>
+    <g stroke-width="5">
+     <circle cx="650.95" cy="972" r="10"/>
+     <circle cx="456.54" cy="945.09" r="10"/>
+     <circle cx="396.6" cy="945.09" r="10"/>
+     <circle cx="100.3" cy="597.16" r="10"/>
+    </g>
+   </g>
+  </g>
+  <path d="m1054.4 366.51a10 10 0 0 1 10-10 10 10 0 0 1 10 10" fill="#80276c" stroke="#00843d" stroke-width="5"/>
+ </g>
+ <g>
+  <rect x="667.5" y="965" width="25" height="30" fill-rule="evenodd"/>
+  <rect x="437.5" y="965" width="25" height="30" fill-rule="evenodd"/>
+  <g fill="none" stroke-width="8">
+   <path d="m40 90h100" stroke="#00843d"/>
+   <path d="m40 140h150" stroke="#00843d"/>
+   <path d="m115 90h75" stroke="#ada"/>
+  </g>
+  <g fill="#000000" font-family="'Bitstream Vera Sans'" letter-spacing="-1px" word-spacing="0px">
+   <g text-anchor="end">
+    <text x="560.61011" y="627.84985" text-align="end" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="559.61011" y="627.84985" font-size="20px" text-align="end" text-anchor="end">St Mary's St</tspan></text>
+    <text x="545.07349" y="654.7605" text-align="end" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="544.07349" y="654.7605" font-size="20px" text-align="end" text-anchor="end">Hawes St</tspan></text>
+    <text x="514.00012" y="708.58154" text-align="end" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="513.00012" y="708.58154" font-size="20px" text-align="end" text-anchor="end">St Paul St</tspan></text>
+    <text x="498.4635" y="735.49207" text-align="end" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="497.4635" y="735.49207" font-size="20px" text-align="end" text-anchor="end">Coolidge Corner</tspan></text>
+    <text x="482.92685" y="762.40271" text-align="end" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="481.92685" y="762.40271" font-size="20px" text-align="end" text-anchor="end">Summit Ave</tspan></text>
+    <text x="467.39017" y="789.31323" text-align="end" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="466.39017" y="789.31323" font-size="20px" text-align="end" text-anchor="end">Brandon Hall</tspan></text>
+    <text x="451.85352" y="816.22388" text-align="end" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="450.85352" y="816.22388" font-size="20px" text-align="end" text-anchor="end">Fairbanks St</tspan></text>
+    <text x="436.31686" y="843.13452" text-align="end" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="435.31686" y="843.13452" font-size="20px" text-align="end" text-anchor="end">Washington Sq</tspan></text>
+    <text x="420.78018" y="870.04504" text-align="end" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="419.78018" y="870.04504" font-size="20px" text-align="end" text-anchor="end">Tappan St</tspan></text>
+    <text x="405.24353" y="896.95557" text-align="end" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="404.24353" y="896.95557" font-size="20px" text-align="end" text-anchor="end">Dean Road</tspan></text>
+    <text x="389.70688" y="923.86621" text-align="end" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="388.70688" y="923.86621" font-size="20px" text-align="end" text-anchor="end">Englewood Ave</tspan></text>
+    <text x="529.5368" y="681.67102" text-align="end" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="528.5368" y="681.67102" font-size="20px" text-align="end" text-anchor="end">Kent St</tspan></text>
+   </g>
+   <g font-size="25px" font-weight="bold">
+    <text x="470" y="990" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="470" y="990" font-size="25px">Riverside</tspan></text>
+    <text x="351" y="990" text-align="end" text-anchor="end" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="350" y="990" font-size="25px">Cleveland Circle</tspan></text>
+    <text x="20" y="640" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="20" y="640" font-size="25px">Boston College</tspan></text>
+   </g>
+   <g font-size="20px">
+    <g>
+     <text x="550.86346" y="535.01636" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="550.86346" y="535.01636" fill="#000000" font-size="20px">Blandford St</tspan></text>
+     <text x="519.78973" y="503.94266" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="519.78973" y="503.94266" fill="#000000" font-size="20px">Boston University East</tspan></text>
+     <text x="489.67123" y="472.86841" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="489.67123" y="472.86841" fill="#000000" font-size="20px">Boston University Central</tspan></text>
+     <text x="474.63428" y="441.79489" text-align="center" text-anchor="middle" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="474.13428" y="441.79489" fill="#000000" font-size="20px" text-align="center" text-anchor="middle">Amory St</tspan></text>
+    </g>
+    <text x="170" y="530" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="170" y="530" font-size="20px"/></text>
+    <text x="39.869934" y="495.86746" text-align="center" text-anchor="middle" style="line-height:1" line-height="89.99999762%" xml:space="preserve"><tspan x="39.369934" y="495.86746" text-align="center" style="line-height:10"/><tspan x="39.369934" y="495.86746" text-align="center" style="line-height:10"/></text>
+   </g>
+  </g>
+  <g fill="#888888" font-family="'Bitstream Vera Sans'" letter-spacing="-1px" word-spacing="0px">
+   <text x="232.14" y="249.99997" font-size="25px" font-weight="bold" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="232.14" y="249.99997">Watertown</tspan></text>
+   <text x="292.63998" y="339.99997" font-size="20px" text-align="center" text-anchor="middle" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="292.13998" y="339.99997" text-align="center">Newton</tspan><tspan x="292.13998" y="357.99997" text-align="center">  Corner</tspan></text>
+   <text x="312.63998" y="409.99997" font-size="20px" text-align="center" text-anchor="middle" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="312.13998" y="409.99997" text-align="center">Oak</tspan><tspan x="312.13998" y="427.99997" text-align="center">          Square</tspan></text>
+  </g>
+  <g fill="#000000" font-family="'Bitstream Vera Sans'" letter-spacing="-1px" word-spacing="0px">
+   <text x="700" y="990" font-size="25px" font-weight="bold" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="700" y="990" font-size="25px">Heath Street</tspan></text>
+   <g>
+    <text x="742.08368" y="845.21619" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="742.08368" y="845.21619" font-size="20px">Brigham Circle</tspan></text>
+    <text x="726.547" y="872.12683" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="726.547" y="872.12683" font-size="20px">Fenwood Road</tspan></text>
+    <text x="711.01031" y="899.03741" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="711.01031" y="899.03741" font-size="20px">Mission Park</tspan></text>
+    <text x="695.47369" y="925.948" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="695.47369" y="925.948" font-size="20px">Riverway</tspan></text>
+    <text x="679.93701" y="952.85858" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="679.93701" y="952.85858" font-size="20px">Back of the Hill</tspan></text>
+   </g>
+   <g font-size="25px">
+    <text x="880" y="580" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="880" y="580" font-size="25px">Copley</tspan></text>
+    <text x="820.5" y="580" text-align="center" text-anchor="middle" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="820" y="580" font-size="25px" text-align="center" text-anchor="middle">Hynes</tspan></text>
+    <text x="761" y="580" text-align="end" text-anchor="end" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="760" y="580" font-size="25px" text-align="end" text-anchor="end">Kenmore</tspan></text>
+    <text x="970.5" y="630" text-align="center" text-anchor="middle" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="970" y="630" font-size="25px" text-align="center" text-anchor="middle">Arlington</tspan></text>
+    <text x="860" y="670" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="860" y="670" font-size="25px">Prudential</tspan></text>
+    <text x="820" y="720" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="820" y="720" font-size="25px">Symphony</tspan></text>
+   </g>
+   <g>
+    <text x="788.69366" y="764.4845" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="788.69366" y="764.4845" font-size="20px">Northeastern University</tspan></text>
+    <text x="773.15698" y="791.39508" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="773.15698" y="791.39508" font-size="20px">Museum of Fine Arts</tspan></text>
+    <text x="757.6203" y="818.30573" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="757.6203" y="818.30573" font-size="20px">Longwood Medical Area</tspan></text>
+   </g>
+   <g font-size="25px">
+    <text x="890" y="290" font-weight="bold" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="890" y="290" font-size="25px">LECHMERE</tspan></text>
+    <text x="1010.5" y="324" text-align="center" text-anchor="middle" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="1010" y="324" text-align="center">Science</tspan><tspan x="1010" y="346.5" text-align="center">Park</tspan></text>
+    <g>
+     <g text-anchor="end">
+      <text x="1041" y="400" text-align="end" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="1040" y="400" font-size="25px" text-align="end" text-anchor="end">North Station</tspan></text>
+      <text x="1095" y="430" text-align="end" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="1094" y="430" font-size="25px" text-align="end" text-anchor="end">Haymarket</tspan></text>
+      <text x="1071" y="480" text-align="end" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="1070" y="480" font-size="25px" text-align="end" text-anchor="end">Government Center</tspan></text>
+      <text x="1041" y="530" text-align="end" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="1040" y="530" font-size="25px" text-align="end" text-anchor="end">Park Street</tspan></text>
+     </g>
+     <text x="1030" y="610" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="1030" y="610" font-size="25px">Boylston</tspan></text>
+    </g>
+   </g>
+   <g>
+    <text x="656.43622" y="629.93152" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="656.43622" y="629.93152" font-size="20px">Fenway</tspan></text>
+    <text x="640.89954" y="656.8421" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="640.89954" y="656.8421" font-size="20px">Longwood</tspan></text>
+    <text x="625.36292" y="683.75269" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="625.36292" y="683.75269" font-size="20px">Brookline Village</tspan></text>
+    <text x="609.82623" y="710.66321" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="609.82623" y="710.66321" font-size="20px">Brookline Hills</tspan></text>
+    <text x="594.28955" y="737.57379" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="594.28955" y="737.57379" font-size="20px">Beaconsfield</tspan></text>
+    <text x="578.75293" y="764.48438" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="578.75293" y="764.48438" font-size="20px">Reservoir</tspan></text>
+    <text x="563.21625" y="791.39502" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="563.21625" y="791.39502" font-size="20px">Chestnut Hill</tspan></text>
+    <text x="547.67957" y="818.3056" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="547.67957" y="818.3056" font-size="20px">Newton Centre</tspan></text>
+    <text x="532.14294" y="845.21619" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="532.14294" y="845.21619" font-size="20px">Newton Highlands</tspan></text>
+    <text x="516.60626" y="872.12671" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="516.60626" y="872.12671" font-size="20px">Eliot</tspan></text>
+    <text x="501.06958" y="899.03729" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="501.06958" y="899.03729" font-size="20px">Waban</tspan></text>
+    <text x="485.53293" y="925.94788" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="485.53293" y="925.94788" font-size="20px">Woodland</tspan></text>
+   </g>
+  </g>
+  <g fill="#888888" font-family="'Bitstream Vera Sans'" letter-spacing="-1px" word-spacing="0px">
+   <text x="730.48657" y="34.410172" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="730.48657" y="34.410172" fill="#888888" font-size="20px">Medford/Tufts</tspan></text>
+   <text x="758.61157" y="83.124092" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="758.61157" y="83.124092" fill="#888888" font-size="20px">Ball Square</tspan></text>
+   <text x="786.73657" y="131.83801" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="786.73657" y="131.83801" fill="#888888" font-size="20px">Magoun Square</tspan></text>
+   <text x="842.98657" y="229.26585" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="842.98657" y="229.26585" fill="#888888" font-size="20px">East Somerville</tspan></text>
+  </g>
+  <g font-family="'Bitstream Vera Sans'" letter-spacing="-1px" word-spacing="0px">
+   <text x="791" y="275" fill="#000000" text-align="end" text-anchor="end" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="790" y="275" fill="#000000" font-size="20px" text-align="end" text-anchor="end">Union Square</tspan></text>
+   <text x="814.86157" y="180.55193" fill="#888888" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="814.86157" y="180.55193" fill="#888888" font-size="20px">Gilman Square</tspan></text>
+   <text x="633.32703" y="1033.5903" fill="#888888" font-size="20px" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="633.32703" y="1033.5903" fill="#888888" font-size="20px">Arborway</tspan></text>
+  </g>
+  <path d="m177.5 18.349-25 43.301" fill="none" marker-end="url(#marker10189)" marker-start="url(#marker10101)" stroke="#003da5" stroke-width="5"/>
+  <g font-family="'Bitstream Vera Sans'" font-size="25px" letter-spacing="-1px" word-spacing="0px">
+   <text x="210" y="50" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="210" y="50">Subway / Elevated / Transfer</tspan></text>
+   <text x="210" y="100" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="210" y="100">Surface / <tspan fill="#888888">Abandoned</tspan></tspan></text>
+   <text x="210" y="150" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="210" y="150" fill="#888888">Under construction</tspan></text>
+  </g>
+  <circle cx="152.5" cy="90" r="6" fill="#ddd" fill-rule="evenodd" stroke="#888" stroke-linejoin="round" stroke-width="3"/>
+  <path d="m40 140h150" fill="none" stroke="#aaa" stroke-dasharray="5, 5" stroke-width="5"/>
+  <circle cx="77.5" cy="90" r="6" fill="#fff" fill-rule="evenodd" stroke="#00843d" stroke-linejoin="round" stroke-width="3"/>
+  <g fill="none">
+   <path d="m560 0v130l-50 50h-510" stroke="#00843d" stroke-width="9"/>
+   <path d="m560 0v130l-50 50h-510" stroke="#fff" stroke-width="3"/>
+   <path transform="translate(0,-2.3621)" d="m90 42.362h50" stroke="#088" stroke-width="22"/>
+   <path transform="translate(0,-2.3621)" d="m90 42.362h50" stroke="#fff" stroke-width="18"/>
+   <path d="m40 40h150" stroke="#00843d" stroke-width="15"/>
+  </g>
+  <g fill-rule="evenodd">
+   <g stroke-linejoin="round">
+    <circle cx="65" cy="40" r="10" fill="#fff" stroke="#00843d" stroke-width="5"/>
+    <circle cx="165" cy="40" r="10" fill="#00f" stroke="#fff" stroke-width="9"/>
+    <circle cx="165" cy="40" r="10" fill="#003da5" stroke="#00843d" stroke-width="5"/>
+    <circle cx="115" cy="40" r="10" fill="#fff" stroke="#00843d" stroke-width="5"/>
+    <circle cx="115" cy="140" r="6" fill="#fff" stroke="#8a8" stroke-dasharray="3, 3" stroke-width="3"/>
+   </g>
+   <rect x="57.5" y="585" width="25" height="30"/>
+   <rect x="357.5" y="965" width="25" height="30"/>
+  </g>
+  <text x="370.5" y="990" fill="#ffffff" font-family="'Bitstream Vera Sans'" font-size="30px" font-weight="bold" letter-spacing="-1px" text-align="center" text-anchor="middle" word-spacing="0px" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="370" y="990">C</tspan></text>
+  <rect x="197.49" y="225" width="25" height="30" fill="#888" fill-rule="evenodd"/>
+  <text x="210.49286" y="249.99969" fill="#dddddd" font-family="'Bitstream Vera Sans'" font-size="30px" font-weight="bold" letter-spacing="-1px" text-align="center" text-anchor="middle" word-spacing="0px" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="209.99286" y="249.99969">A</tspan></text>
+  <text x="70.5" y="610" fill="#ffffff" font-family="'Bitstream Vera Sans'" font-size="30px" font-weight="bold" letter-spacing="-1px" text-align="center" text-anchor="middle" word-spacing="0px" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="70" y="610">B</tspan></text>
+  <g fill="none" stroke-width="1px">
+   <g stroke="#000">
+    <path d="m1064.9 364.81v25.192h-24.904"/>
+    <path d="m924.95 327.31v-27.308"/>
+    <path d="m565.45 597.16v-57.164"/>
+    <path d="m534.37 597.16v-87.164"/>
+    <path d="M 504.25,597.16 V 480"/>
+    <path d="M 442.11,597.16 V 480"/>
+    <path d="m348.89 597.16v12.837"/>
+    <path d="m286.74 597.16v62.84"/>
+    <path d="m255.66 597.16v92.84"/>
+    <path d="m474.13 450 7e-4 147.16"/>
+    <path d="m224.59 597.16v-27.16"/>
+    <path d="m162.44 597.16v-102.16"/>
+    <path d="m131.37 597.16v-132.16"/>
+    <path d="m193.52 597.16v-57.16"/>
+   </g>
+   <path d="m348.88 516.43-58.88-3.26v-23.17" stroke="#888"/>
+  </g>
+  <text x="680.5" y="990" fill="#ffffff" font-family="'Bitstream Vera Sans'" font-size="30px" font-weight="bold" letter-spacing="-1px" text-align="center" text-anchor="middle" word-spacing="0px" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="680" y="990">E</tspan></text>
+  <text x="450.5" y="990" fill="#ffffff" font-family="'Bitstream Vera Sans'" font-size="30px" font-weight="bold" letter-spacing="-1px" text-align="center" text-anchor="middle" word-spacing="0px" style="line-height:89.99999762%" line-height="89.99999762%" xml:space="preserve"><tspan x="450" y="990">D</tspan></text>
+  <g fill="#000000" font-family="sans-serif" font-size="20px" letter-spacing="-1px" word-spacing="0px">
+   <text x="135" y="490" style="line-height:0.89999998" xml:space="preserve"><tspan x="135" y="490">Chestnut Hill</tspan><tspan x="135" y="508">      Ave</tspan></text>
+   <text x="130.5" y="460" text-align="center" text-anchor="middle" style="line-height:0.89999998" xml:space="preserve"><tspan x="130" y="460">South St</tspan></text>
+   <text x="170" y="535" style="line-height:0.89999998" xml:space="preserve"><tspan x="170" y="535">Chiswick Rd</tspan></text>
+   <text x="200" y="562.5" style="line-height:0.89999998" xml:space="preserve"><tspan x="200" y="562.5">Sutherland</tspan><tspan x="200" y="580.5">     Rd</tspan></text>
+   <text x="250.5" y="705" text-align="center" text-anchor="middle" style="line-height:0.89999998" xml:space="preserve"><tspan x="250" y="705">Washington St</tspan></text>
+   <g>
+    <text x="270" y="680" style="line-height:0.89999998" xml:space="preserve"><tspan x="270" y="680">Warren St</tspan></text>
+    <text x="300" y="655" style="line-height:0.89999998" xml:space="preserve"><tspan x="300" y="655">Allston St</tspan></text>
+    <text x="330" y="630" style="line-height:0.89999998" xml:space="preserve"><tspan x="330" y="630">Griggs St</tspan></text>
+   </g>
+   <text x="370.5" y="562.5" text-align="center" text-anchor="middle" style="line-height:0.89999998" xml:space="preserve"><tspan x="370" y="562.5">Harvard</tspan><tspan x="370" y="580.5">Ave</tspan></text>
+   <text x="436" y="505" text-align="end" text-anchor="end" style="line-height:0.89999998" xml:space="preserve"><tspan x="435" y="505">Packard's</tspan><tspan x="441.03125" y="523">Corner </tspan></text>
+   <text x="461" y="472.5" text-align="end" text-anchor="end" style="line-height:0.89999998" xml:space="preserve"><tspan x="460" y="472.5">Babcock St</tspan></text>
+  </g>
+  <g fill="none" stroke="#000" stroke-width="1px">
+   <path d="m411.03 597.16v-67.16"/>
+   <path d="m377.75 584.32v12.837"/>
+   <path d="m317.81 635v-37.84"/>
+  </g>
+  <text x="290.5" y="465" fill="#888888" font-family="sans-serif" font-size="20px" letter-spacing="-1px" text-align="center" text-anchor="middle" word-spacing="0px" style="line-height:0.89999998" xml:space="preserve"><tspan x="290" y="465">Union</tspan><tspan x="290" y="483">Sq</tspan></text>
+ </g>
+</svg>
